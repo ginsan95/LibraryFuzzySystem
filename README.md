@@ -1,6 +1,6 @@
 # LibraryFuzzySystem
 ## Introduction
-This project is a libarry coldness fuzzy control system, where based on input variables such as the weather and air-con temperature, the fuzzy system will calculate the coldness level felt by the students.
+This project is a libarry coldness fuzzy control system, where based on input variables such as the weather and air-con temperature, the fuzzy system will calculate the coldness level felt by the students. It is my assignment for the subject Computational Intelligence during my undergraduate semester 7.
 
 ## Methodology
 ### Membership function
